@@ -1,4 +1,4 @@
-# Immich Mobile Userscript
+# Immich Mobile Userscript - Vibe Coded
 
 A Tampermonkey userscript that overlays useful metadata badges on every thumbnail in [Immich](https://immich.app/) — file size, filename, RAW indicator, and album status. Designed for photo culling workflows on both the timeline (`/photos`) and album (`/albums`) pages.
 
